@@ -20,8 +20,8 @@ chat.welcome = isEnable
 break
 default:
 if (!/[01]/.test(command)) throw `
-┌〔 OPCIONES 〕
-├ welcome
+┌〔 Opciones 〕
+├ Welcome
 └────
 Ejemplo:
 ${usedPrefix}on welcome
