@@ -38,8 +38,8 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > apt install nodejs -y
 > apt install ffmpeg -y
 > apt install imagemagick -y
-> git clone https://github.com/BrunoSobrino/SimpleBot
-> cd SimpleBot
+> git clone https://github.com/Micasatio/Sapito_Bot-
+> cd Sapito_Bot-
 > yarn install
 > npm install
 > npm update
